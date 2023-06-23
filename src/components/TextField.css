@@ -1,0 +1,16 @@
+.input-container {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  input[type="text"] {
+    flex-grow: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+    border-radius: 50px;
+
+  }
+
+ 

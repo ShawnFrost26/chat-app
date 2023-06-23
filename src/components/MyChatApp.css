@@ -1,0 +1,14 @@
+.chat-app {
+    display: flex;
+    flex-direction: column-reverse;
+    height: 95vh;
+    padding: 20px;
+    /* background-color: #ededed; */
+    background-color: #dbdbdb;
+    overflow: hidden;
+    max-width: 80vw;
+    margin: auto;
+  }
+
+ 
+  
